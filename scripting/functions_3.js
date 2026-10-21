@@ -2,7 +2,7 @@ function simpleFunction(){
     console.log('This is a simple function');
 }
 
-let anonymourse = function (){
+let anonymousFunction = function (){
     console.log('This is an anonymous function');
 }
 
@@ -11,5 +11,5 @@ let arrowFunction = () => {
 }
 
 setTimeout(simpleFunction, 1000);
-setTimeout(anonymourse, 2000);
+setTimeout(anonymousFunction, 2000);
 setTimeout(arrowFunction, 3000);

@@ -6,5 +6,5 @@ function sumWithOneArgOpt(a: number, b: number = 1):number{
 }
 
 console.log(simpleFun(3, 4));
-console.log(sumWithOneArgOptional(3));
-console.log(sumWithOneArgOptional(3, 5));
+console.log(sumWithOneArgOpt(3));
+console.log(sumWithOneArgOpt(3, 5));
