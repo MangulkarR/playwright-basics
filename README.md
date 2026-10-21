@@ -5,15 +5,15 @@
 - [x] Prerequisite - Git, Node, Npm, VSCode
 - [x] Create Repo - GitHub
 - [x] README.md - Markdown (A lightweight markup language)
-- [ ] Scripting - useStrict, varTypes, functions and functionArg
-- [ ] VSCode Extensions
-- [ ] Playwright installation
-- [ ] Playwright Config
-- [ ] Playwright Sample Project
-- [ ] Locators
-- [ ] Assertions and Verification
-- [ ] Question and answers
-- [ ] Share Repo
+- [x] Scripting - useStrict, varTypes, functions and functionArg
+- [x] VSCode Extensions
+- [x] Playwright installation
+- [x] Playwright Config
+- [x] Playwright Sample Project
+- [x] Locators
+- [x] Assertions and Verification
+- [x] Question and answers
+- [x] Share Repo
 
 ### Recommended VSCode Extensions
 
