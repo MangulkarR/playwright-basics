@@ -1,0 +1,22 @@
+{
+  "name": "playwright-basics",
+  "version": "1.0.0",
+  "description": "- [x] Prerequisite - Git, Node, Npm, VSCode\r - [x] Create Repo - GitHub\r - [x] README.md - Markdown (A lightweight markup language)\r - [ ] Scripting - useStrict, varTypes, functions and functionArg\r - [ ] VSCode Extensions\r - [ ] Playwright installation\r - [ ] Playwright Config\r - [ ] Playwright Sample Project\r - [ ] Locators\r - [ ] Assertions and Verification\r - [ ] Question and answers\r - [ ] Share Repo",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MangulkarR/playwright-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MangulkarR/playwright-basics/issues"
+  },
+  "homepage": "https://github.com/MangulkarR/playwright-basics#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  }
+}
