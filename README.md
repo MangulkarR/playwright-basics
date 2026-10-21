@@ -68,6 +68,7 @@
     1. Browser
     2. Inspectors
 - `npx playwright show-trace path/to/trace.zip`
+- View trace online - https://trace.playwright.dev/
 
 ### Locators
 
